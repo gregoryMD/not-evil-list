@@ -26,8 +26,11 @@
   },
   "homepage": "https://github.com/gregoryMD/not-evil-list#readme",
   "dependencies": {
+    "express": "^4.18.2",
+    "gulp": "^4.0.2",
     "next": "^13.2.4",
     "npm": "^9.6.4",
+    "prettier": "^2.8.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
