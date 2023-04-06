@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This application is directory which points users towards businesses local to them that are not evil. Users can search, filter, and submit businesses and create customs lists that are shared to their profile.
+This application is a business directory which points users towards businesses local to them that are not evil. Users can search, filter, and submit businesses and create customs lists that are shared to their profile.
 
 ## CodeBase Summary
 
