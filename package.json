@@ -1,0 +1,27 @@
+{
+  "name": "not-evil-list",
+  "version": "0.0.1",
+  "description": "a directory of not-evil businesses",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregoryMD/not-evil-list.git"
+  },
+  "keywords": [
+    "not-evil",
+    "directory",
+    "evil"
+  ],
+  "author": "I and he",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregoryMD/not-evil-list/issues"
+  },
+  "homepage": "https://github.com/gregoryMD/not-evil-list#readme",
+  "dependencies": {
+    "npm": "^9.6.4"
+  }
+}
